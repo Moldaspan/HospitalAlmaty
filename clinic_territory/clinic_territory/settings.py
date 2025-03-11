@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'clinics',
     'population',
     'geography',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
